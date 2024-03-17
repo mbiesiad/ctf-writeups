@@ -1,6 +1,11 @@
 # ctf-writeups
 Selected CTF Writeups 🚩
 
+-  [HackTheBox CTF — Crypto: Iced TEA](https://medium.com/@embossdotar/hackthebox-ctf-crypto-iced-tea-9a6a6c73094d)
+-  [HackTheBox CTF — Crypto: Makeshift](https://medium.com/@embossdotar/hackthebox-ctf-crypto-makeshift-64f05b88f8d9)
+-  [Cyber Apocalypse 2024: Hacker Royale — Crypto: Dynastic](https://medium.com/@embossdotar/cyber-apocalypse-2024-hacker-royale-crypto-dynastic-7395ab5cd3ea)
+-  [CTF Writeup — Cyber Apocalypse 2024: Hacker Royale — Reversing: LootStash](https://medium.com/@embossdotar/ctf-writeup-cyber-apocalypse-2024-hacker-royale-reversing-lootstash-60f485a11142)
+_____________________
 -  [CTF Writeup — Hackme CTF](https://medium.com/@embossdotar/ctf-writeup-hackme-ctf-720341f061b4)
 -  [CTF Writeup — pingCTF 2021 — Steganography](https://medium.com/@embossdotar/ctf-writeup-pingctf-2021-steganography-f4c10d8def03)
 -  [CTF Writeup — Fetch the Flag CTF 2023 — Unhackable Andy](https://medium.com/@embossdotar/ctf-writeup-fetch-the-flag-ctf-2023-unhackable-andy-4e5a8dbdbcb0)
