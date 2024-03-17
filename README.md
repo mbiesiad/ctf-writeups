@@ -9,5 +9,6 @@ _____________________
 -  [TryHackMe — Advent of Cyber 2023 — Hydra — Day 3 Walkthrough](https://medium.com/@embossdotar/tryhackme-advent-of-cyber-2023-hydra-day-3-walkthrough-6f4c2b488a17)
 -  [Advent of Cyber 2023 — TryHackMe — Day 5 — Solutions](https://medium.com/@embossdotar/advent-of-cyber-2023-tryhackme-day-5-solutions-02d94262d697)
 -  [Advent of Cyber 2023 — TryHackMe — CeWL & wfuzz — Day 4 Walkthrough](https://medium.com/@embossdotar/advent-of-cyber-2023-tryhackme-cewl-wfuzz-day-4-walkthrough-51a70be43b37)
+-  [TryHackMe — Source Code Security — Writeup](https://medium.com/@embossdotar/tryhackme-source-code-security-writeup-8db50e5e143c)
 
 I hope you enjoy! 🎉
