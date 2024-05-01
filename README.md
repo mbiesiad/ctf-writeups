@@ -15,5 +15,15 @@ _____________________
 -  [Advent of Cyber 2023 — TryHackMe — Day 5 — Solutions](https://medium.com/@embossdotar/advent-of-cyber-2023-tryhackme-day-5-solutions-02d94262d697)
 -  [Advent of Cyber 2023 — TryHackMe — CeWL & wfuzz — Day 4 Walkthrough](https://medium.com/@embossdotar/advent-of-cyber-2023-tryhackme-cewl-wfuzz-day-4-walkthrough-51a70be43b37)
 -  [TryHackMe — Source Code Security — Writeup](https://medium.com/@embossdotar/tryhackme-source-code-security-writeup-8db50e5e143c)
+-  [TryHackMe — Security Principles — Writeup](https://medium.com/@embossdotar/tryhackme-security-principles-writeup-96ccf47e0f43)
+-  [TryHackMe — Lessons Learned — Writeup](https://medium.com/@embossdotar/tryhackme-lessons-learned-writeup-d5a5e9baded8)
+-  [TryHackMe — MalDoc: Static Analysis — Writeup](https://medium.com/@embossdotar/tryhackme-maldoc-static-analysis-writeup-cbf597bb5205)
+-  [TryHackMe — Anti-Reverse Engineering — Writeup](https://medium.com/@embossdotar/tryhackme-anti-reverse-engineering-writeup-7db68dff9ad8)
+-  [TryHackMe — x86 Assembly Crash Course — Writeup](https://medium.com/@embossdotar/tryhackme-x86-assembly-crash-course-writeup-e2b7aaf7864f)
+-  [TryHackMe — Windows Internals — Writeup](https://medium.com/@embossdotar/tryhackme-windows-internals-writeup-ad5d7817b0ce)
+-  [TryHackMe — Windows User Account Forensics — Writeup](https://medium.com/@embossdotar/tryhackme-windows-user-account-forensics-writeup-8e76f4984ee7)
+-  [TryHackMe — Advanced Static Analysis — Writeup](https://medium.com/@embossdotar/tryhackme-advanced-static-analysis-writeup-67957dddc0cc)
+-  [TryHackMe — CORS & SOP — Writeup](https://medium.com/@embossdotar/tryhackme-cors-sop-writeup-2d1e41717107)
+-  [TryHackMe — Race Conditions — Writeup](https://medium.com/@embossdotar/tryhackme-race-conditions-writeup-67ddd0d7eb9f)
 
 I hope you enjoy! 🎉
