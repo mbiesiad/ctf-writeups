@@ -16,6 +16,9 @@ _____________________
 -  [CTF Writeup — SwampCTF 2024 — Lost in Space](https://medium.com/@embossdotar/ctf-writeup-swampctf-2024-lost-in-space-6e3689f43c3a)
 -  [CTF Writeup — Wayne State University — CTF24 — XZ Utils Investigation 1](https://medium.com/@embossdotar/ctf-writeup-wayne-state-university-ctf24-xz-utils-investigation-1-df7eaa5b6319)
 -  [CTF Writeup — HackPack CTF 2024 — LLM edition — YellowDog-1](https://medium.com/@embossdotar/ctf-writeup-hackpack-ctf-2024-llm-edition-yellowdog-1-db02a36e1051)
+-  [CTF Writeup — AirOverflow CTF — 2024 — Insanity](https://medium.com/@embossdotar/ctf-writeup-airoverflow-ctf-2024-insanity-273d3d5d4128)
+-  [CTF Writeup — SpringForwardCTF — Minerva’s Quest](https://medium.com/@embossdotar/ctf-writeup-springforwardctf-minervas-quest-869b3e5907fc)
+-  [openECSC 2024 — Round 2 — CTF Writeup — Blind maze](https://medium.com/@embossdotar/openecsc-2024-round-2-ctf-writeup-blind-maze-137438ad3490)
 _____________________
 -  [TryHackMe — Advent of Cyber 2023 — Hydra — Day 3 Walkthrough](https://medium.com/@embossdotar/tryhackme-advent-of-cyber-2023-hydra-day-3-walkthrough-6f4c2b488a17)
 -  [Advent of Cyber 2023 — TryHackMe — Day 5 — Solutions](https://medium.com/@embossdotar/advent-of-cyber-2023-tryhackme-day-5-solutions-02d94262d697)
