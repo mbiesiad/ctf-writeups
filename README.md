@@ -34,5 +34,10 @@ _____________________
 -  [TryHackMe — Advanced Static Analysis — Writeup](https://medium.com/@embossdotar/tryhackme-advanced-static-analysis-writeup-67957dddc0cc)
 -  [TryHackMe — CORS & SOP — Writeup](https://medium.com/@embossdotar/tryhackme-cors-sop-writeup-2d1e41717107)
 -  [TryHackMe — Race Conditions — Writeup](https://medium.com/@embossdotar/tryhackme-race-conditions-writeup-67ddd0d7eb9f)
+-  [TryHackMe — IR Difficulties and Challenges — Writeup](https://medium.com/@embossdotar/tryhackme-ir-difficulties-and-challenges-writeup-bc8ec6f41eeb)
+-  [TryHackMe — Analysing Volatile Memory — Writeup](https://medium.com/@embossdotar/tryhackme-analysing-volatile-memory-writeup-b2230b576812)
+-  [TryHackMe — Insecure Deserialisation — Writeup](https://medium.com/@embossdotar/tryhackme-insecure-deserialisation-writeup-a6a4f337359f)
+-  [TryHackMe — Windows Network Analysis — Writeup](https://medium.com/@embossdotar/tryhackme-windows-network-analysis-writeup-92f6278e27ae)
+-  [TryHackMe — IR Philosophy and Ethics — Writeup](https://medium.com/@embossdotar/tryhackme-ir-philosophy-and-ethics-writeup-8b07f933a4f4)
 
 I hope you enjoy! 🎉
