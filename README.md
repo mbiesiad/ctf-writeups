@@ -39,5 +39,6 @@ _____________________
 -  [TryHackMe — Insecure Deserialisation — Writeup](https://medium.com/@embossdotar/tryhackme-insecure-deserialisation-writeup-a6a4f337359f)
 -  [TryHackMe — Windows Network Analysis — Writeup](https://medium.com/@embossdotar/tryhackme-windows-network-analysis-writeup-92f6278e27ae)
 -  [TryHackMe — IR Philosophy and Ethics — Writeup](https://medium.com/@embossdotar/tryhackme-ir-philosophy-and-ethics-writeup-8b07f933a4f4)
+-  [TryHackMe — LDAP Injection — Writeup](https://medium.com/@embossdotar/tryhackme-ldap-injection-writeup-cf7226714fc0)
 
 I hope you enjoy! 🎉
