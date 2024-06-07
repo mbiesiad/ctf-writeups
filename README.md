@@ -40,5 +40,7 @@ _____________________
 -  [TryHackMe — Windows Network Analysis — Writeup](https://medium.com/@embossdotar/tryhackme-windows-network-analysis-writeup-92f6278e27ae)
 -  [TryHackMe — IR Philosophy and Ethics — Writeup](https://medium.com/@embossdotar/tryhackme-ir-philosophy-and-ethics-writeup-8b07f933a4f4)
 -  [TryHackMe — LDAP Injection — Writeup](https://medium.com/@embossdotar/tryhackme-ldap-injection-writeup-cf7226714fc0)
+-  [TryHackMe — XXE Injection — Writeup](https://medium.com/@embossdotar/tryhackme-xxe-injection-writeup-8ae820685212)
+-  [TryHackMe — TShark: The Basics — Writeup](https://medium.com/@embossdotar/tryhackme-tshark-the-basics-writeup-687b8ba58b2e)
 
 I hope you enjoy! 🎉
