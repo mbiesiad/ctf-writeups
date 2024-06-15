@@ -42,5 +42,7 @@ _____________________
 -  [TryHackMe — LDAP Injection — Writeup](https://medium.com/@embossdotar/tryhackme-ldap-injection-writeup-cf7226714fc0)
 -  [TryHackMe — XXE Injection — Writeup](https://medium.com/@embossdotar/tryhackme-xxe-injection-writeup-8ae820685212)
 -  [TryHackMe — TShark: The Basics — Writeup](https://medium.com/@embossdotar/tryhackme-tshark-the-basics-writeup-687b8ba58b2e)
+-  [TryHackMe — Advanced SQL Injection — Writeup](https://medium.com/@embossdotar/tryhackme-advanced-sql-injection-writeup-a670d2b44ec4)
+-  [TryHackMe — TShark: CLI Wireshark Features — Writeup](https://medium.com/@embossdotar/tryhackme-tshark-cli-wireshark-features-writeup-ea20b38a4e57)
 
 I hope you enjoy! 🎉
