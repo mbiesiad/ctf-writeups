@@ -45,5 +45,6 @@ _____________________
 -  [TryHackMe — Advanced SQL Injection — Writeup](https://medium.com/@embossdotar/tryhackme-advanced-sql-injection-writeup-a670d2b44ec4)
 -  [TryHackMe — TShark: CLI Wireshark Features — Writeup](https://medium.com/@embossdotar/tryhackme-tshark-cli-wireshark-features-writeup-ea20b38a4e57)
 -  [TryHackMe — DOM-Based Attacks — Writeup](https://medium.com/@embossdotar/tryhackme-dom-based-attacks-writeup-d6788e534c77)
+-  [TryHackMe — Server-side Template Injection — Writeup](https://medium.com/@embossdotar/tryhackme-server-side-template-injection-writeup-fe19e9188b78)
 
 I hope you enjoy! 🎉
