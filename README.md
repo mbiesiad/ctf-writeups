@@ -46,5 +46,6 @@ _____________________
 -  [TryHackMe — TShark: CLI Wireshark Features — Writeup](https://medium.com/@embossdotar/tryhackme-tshark-cli-wireshark-features-writeup-ea20b38a4e57)
 -  [TryHackMe — DOM-Based Attacks — Writeup](https://medium.com/@embossdotar/tryhackme-dom-based-attacks-writeup-d6788e534c77)
 -  [TryHackMe — Server-side Template Injection — Writeup](https://medium.com/@embossdotar/tryhackme-server-side-template-injection-writeup-fe19e9188b78)
+-  [TryHackMe — iOS Analysis — Writeup](https://medium.com/@embossdotar/tryhackme-ios-analysis-writeup-57e3b55c2484)
 
 I hope you enjoy! 🎉
