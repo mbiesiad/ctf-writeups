@@ -47,5 +47,7 @@ _____________________
 -  [TryHackMe — DOM-Based Attacks — Writeup](https://medium.com/@embossdotar/tryhackme-dom-based-attacks-writeup-d6788e534c77)
 -  [TryHackMe — Server-side Template Injection — Writeup](https://medium.com/@embossdotar/tryhackme-server-side-template-injection-writeup-fe19e9188b78)
 -  [TryHackMe — iOS Analysis — Writeup](https://medium.com/@embossdotar/tryhackme-ios-analysis-writeup-57e3b55c2484)
+-  [TryHackMe — Snyk Open Source — Writeup](https://medium.com/@embossdotar/tryhackme-snyk-open-source-writeup-567ba2bee2bd)
+-  [TryHackMe — Snyk Code — Writeup](https://medium.com/@embossdotar/tryhackme-snyk-code-writeup-306b38b8d12b)
 
 I hope you enjoy! 🎉
