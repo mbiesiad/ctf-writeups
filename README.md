@@ -49,5 +49,6 @@ _____________________
 -  [TryHackMe — iOS Analysis — Writeup](https://medium.com/@embossdotar/tryhackme-ios-analysis-writeup-57e3b55c2484)
 -  [TryHackMe — Snyk Open Source — Writeup](https://medium.com/@embossdotar/tryhackme-snyk-open-source-writeup-567ba2bee2bd)
 -  [TryHackMe — Snyk Code — Writeup](https://medium.com/@embossdotar/tryhackme-snyk-code-writeup-306b38b8d12b)
+-  [TryHackMe — Cluster Hardening — Writeup](https://medium.com/@embossdotar/tryhackme-cluster-hardening-writeup-62177add3e65)
 
 I hope you enjoy! 🎉
