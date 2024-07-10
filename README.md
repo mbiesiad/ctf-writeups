@@ -52,5 +52,6 @@ _____________________
 -  [TryHackMe — Snyk Code — Writeup](https://medium.com/@embossdotar/tryhackme-snyk-code-writeup-306b38b8d12b)
 -  [TryHackMe — Cluster Hardening — Writeup](https://medium.com/@embossdotar/tryhackme-cluster-hardening-writeup-62177add3e65)
 -  [TryHackMe — ORM Injection — Writeup](https://medium.com/@embossdotar/tryhackme-orm-injection-writeup-8d3c356f15d7)
+-  [TryHackMe — NoSQL Injection — Writeup](https://medium.com/@embossdotar/tryhackme-nosql-injection-writeup-ad55d1464ae1)
 
 I hope you enjoy! 🎉
