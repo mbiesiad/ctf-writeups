@@ -21,6 +21,8 @@ _____________________
 -  [openECSC 2024 — Round 2 — CTF Writeup — Blind maze](https://medium.com/@embossdotar/openecsc-2024-round-2-ctf-writeup-blind-maze-137438ad3490)
 -  [CTF Writeup — UIUCTF 2024 — An Unlikely Partnership](https://medium.com/@embossdotar/ctf-writeup-uiuctf-2024-an-unlikely-partnership-c1233105bdbb)
 -  [CTF Writeup — DownUnderCTF 2024 — tldr please summarise](https://medium.com/@embossdotar/ctf-writeup-downunderctf-2024-tldr-please-summarise-8394e4471e91)
+-  [CTF Writeup — DownUnderCTF 2024 — offtheramp](https://medium.com/@embossdotar/ctf-writeup-downunderctf-2024-offtheramp-63cb06bdc6c7)
+-  [CTF Writeup — DownUnderCTF 2024 — Baby’s First Forensics](https://medium.com/@embossdotar/ctf-writeup-downunderctf-2024-babys-first-forensics-39de2a121eb7)
 _____________________
 -  [TryHackMe — Advent of Cyber 2023 — Hydra — Day 3 Walkthrough](https://medium.com/@embossdotar/tryhackme-advent-of-cyber-2023-hydra-day-3-walkthrough-6f4c2b488a17)
 -  [Advent of Cyber 2023 — TryHackMe — Day 5 — Solutions](https://medium.com/@embossdotar/advent-of-cyber-2023-tryhackme-day-5-solutions-02d94262d697)
