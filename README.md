@@ -59,5 +59,6 @@ _____________________
 -  [TryHackMe — Linux Live Analysis — Writeup](https://medium.com/@embossdotar/tryhackme-linux-live-analysis-writeup-4e4aca429ec2)
 -  [TryHackMe — K8s Best Security Practices — Writeup](https://medium.com/@embossdotar/tryhackme-k8s-best-security-practices-writeup-bbe21ef1f0c7)
 -  [TryHackMe — Critical — Writeup](https://medium.com/@embossdotar/tryhackme-critical-writeup-2e6598a81cca)
+-  [TryHackMe — Introduction to CryptOps — Writeup](https://medium.com/@embossdotar/tryhackme-introduction-to-cryptops-writeup-23d504a8cc4b)
 
 I hope you enjoy! 🎉
