@@ -62,5 +62,7 @@ _____________________
 -  [TryHackMe — K8s Best Security Practices — Writeup](https://medium.com/@embossdotar/tryhackme-k8s-best-security-practices-writeup-bbe21ef1f0c7)
 -  [TryHackMe — Critical — Writeup](https://medium.com/@embossdotar/tryhackme-critical-writeup-2e6598a81cca)
 -  [TryHackMe — Introduction to CryptOps — Writeup](https://medium.com/@embossdotar/tryhackme-introduction-to-cryptops-writeup-23d504a8cc4b)
+-  [TryHackMe — Enumeration & Brute Force — Writeup](https://medium.com/@embossdotar/tryhackme-enumeration-brute-force-writeup-79fe0d8bd219)
+-  [TryHackMe — Forensic Imaging — Writeup](https://medium.com/@embossdotar/tryhackme-forensic-imaging-writeup-b2530c5b5e35)
 
 I hope you enjoy! 🎉
