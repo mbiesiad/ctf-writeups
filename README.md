@@ -64,5 +64,6 @@ _____________________
 -  [TryHackMe — Introduction to CryptOps — Writeup](https://medium.com/@embossdotar/tryhackme-introduction-to-cryptops-writeup-23d504a8cc4b)
 -  [TryHackMe — Enumeration & Brute Force — Writeup](https://medium.com/@embossdotar/tryhackme-enumeration-brute-force-writeup-79fe0d8bd219)
 -  [TryHackMe — Forensic Imaging — Writeup](https://medium.com/@embossdotar/tryhackme-forensic-imaging-writeup-b2530c5b5e35)
+-  [TryHackMe — Session Management — Writeup](https://medium.com/@embossdotar/tryhackme-session-management-writeup-abf923524316)
 
 I hope you enjoy! 🎉
