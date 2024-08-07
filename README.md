@@ -65,5 +65,6 @@ _____________________
 -  [TryHackMe — Enumeration & Brute Force — Writeup](https://medium.com/@embossdotar/tryhackme-enumeration-brute-force-writeup-79fe0d8bd219)
 -  [TryHackMe — Forensic Imaging — Writeup](https://medium.com/@embossdotar/tryhackme-forensic-imaging-writeup-b2530c5b5e35)
 -  [TryHackMe — Session Management — Writeup](https://medium.com/@embossdotar/tryhackme-session-management-writeup-abf923524316)
+-  [TryHackMe — Joomify — Writeup](https://medium.com/@embossdotar/tryhackme-joomify-writeup-8a99f3c14a4b)
 
 I hope you enjoy! 🎉
