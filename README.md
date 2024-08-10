@@ -26,6 +26,7 @@ _____________________
 -  [CTF Writeup — corCTF 2024 — the-conspiracy](https://medium.com/@embossdotar/ctf-writeup-corctf-2024-the-conspiracy-52e9f95624c7)
 -  [CTF Writeup — corCTF 2024 — infiltration](https://medium.com/@embossdotar/ctf-writeup-corctf-2024-infiltration-b39d39d46e37)
 -  [CTF Writeup — n00bzCTF 2024 — The Gang 2](https://medium.com/@embossdotar/ctf-writeup-n00bzctf-2024-the-gang-2-10ddfddb086f)
+-  [CTF Writeup — TFC CTF 2024 — CCCCC](https://medium.com/@embossdotar/ctf-writeup-tfc-ctf-2024-ccccc-a0cd075518de)
 _____________________
 -  [TryHackMe — Advent of Cyber 2023 — Hydra — Day 3 Walkthrough](https://medium.com/@embossdotar/tryhackme-advent-of-cyber-2023-hydra-day-3-walkthrough-6f4c2b488a17)
 -  [Advent of Cyber 2023 — TryHackMe — Day 5 — Solutions](https://medium.com/@embossdotar/advent-of-cyber-2023-tryhackme-day-5-solutions-02d94262d697)
