@@ -68,5 +68,7 @@ _____________________
 -  [TryHackMe — Forensic Imaging — Writeup](https://medium.com/@embossdotar/tryhackme-forensic-imaging-writeup-b2530c5b5e35)
 -  [TryHackMe — Session Management — Writeup](https://medium.com/@embossdotar/tryhackme-session-management-writeup-abf923524316)
 -  [TryHackMe — Joomify — Writeup](https://medium.com/@embossdotar/tryhackme-joomify-writeup-8a99f3c14a4b)
+-  [TryHackMe — Microservices Architectures — Writeup](https://medium.com/@embossdotar/tryhackme-microservices-architectures-writeup-a266ee894c9d)
+-  [TryHackMe — Intro to Cold System Forensics — Writeup](https://medium.com/@embossdotar/tryhackme-intro-to-cold-system-forensics-writeup-410793c538cc)
 
 I hope you enjoy! 🎉
