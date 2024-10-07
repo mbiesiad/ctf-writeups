@@ -70,5 +70,7 @@ _____________________
 -  [TryHackMe — Joomify — Writeup](https://medium.com/@embossdotar/tryhackme-joomify-writeup-8a99f3c14a4b)
 -  [TryHackMe — Microservices Architectures — Writeup](https://medium.com/@embossdotar/tryhackme-microservices-architectures-writeup-a266ee894c9d)
 -  [TryHackMe — Intro to Cold System Forensics — Writeup](https://medium.com/@embossdotar/tryhackme-intro-to-cold-system-forensics-writeup-410793c538cc)
+-  [TryHackMe — Hypervisor Internals — Writeup](https://medium.com/@embossdotar/tryhackme-hypervisor-internals-writeup-e2dc2c24749f)
+-  [TryHackMe — Multi-Factor Authentication — Writeup](https://medium.com/@embossdotar/tryhackme-multi-factor-authentication-writeup-42098a474147)
 
 I hope you enjoy! 🎉
