@@ -79,6 +79,8 @@ _____________________
 -  [TryHackMe — Multi-Factor Authentication — Writeup](https://medium.com/@embossdotar/tryhackme-multi-factor-authentication-writeup-42098a474147)
 _____________________
 # VDP
-  
+- [Writeup Bugcrowd — Private program — QR codes](https://medium.com/@embossdotar/writeup-bugcrowd-private-program-qr-codes-fa338161175a)
+- [Vuln — Substack Writeup — Open URL Redirection](https://medium.com/@embossdotar/vuln-substack-writeup-open-url-redirection-d4439ddd904e)
+- [Social media account hijacking — VDP](https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44)
 
 I hope you enjoy! 🎉
