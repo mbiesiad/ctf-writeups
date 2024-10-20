@@ -1,5 +1,5 @@
 # ctf-writeups
-Selected CTF Writeups 🚩
+**Selected** CTF Writeups 🚩
 
 # HTB
 -  [HackTheBox CTF — Crypto: Iced TEA](https://medium.com/@embossdotar/hackthebox-ctf-crypto-iced-tea-9a6a6c73094d)
