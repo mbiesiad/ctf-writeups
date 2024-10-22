@@ -77,6 +77,16 @@ _____________________
 -  [TryHackMe — Intro to Cold System Forensics — Writeup](https://medium.com/@embossdotar/tryhackme-intro-to-cold-system-forensics-writeup-410793c538cc)
 -  [TryHackMe — Hypervisor Internals — Writeup](https://medium.com/@embossdotar/tryhackme-hypervisor-internals-writeup-e2dc2c24749f)
 -  [TryHackMe — Multi-Factor Authentication — Writeup](https://medium.com/@embossdotar/tryhackme-multi-factor-authentication-writeup-42098a474147)
+-  [TryHackMe — Nmap: The Basics — Writeup](https://medium.com/@embossdotar/tryhackme-nmap-the-basics-writeup-890d650b3322)
+-  [TryHackMe — Tcpdump: The Basics — Writeup](https://medium.com/@embossdotar/tryhackme-tcpdump-the-basics-writeup-f27d750a76e2)
+-  [TryHackMe — Networking Essentials — Writeup](https://medium.com/@embossdotar/tryhackme-networking-essentials-writeup-66bac291a08e)
+-  [TryHackMe — Networking Core Protocols — Writeup](https://medium.com/@embossdotar/tryhackme-networking-core-protocols-writeup-8a8e1151144a)
+-  [TryHackMe — Networking Secure Protocols — Writeup](https://medium.com/@embossdotar/tryhackme-networking-secure-protocols-writeup-aea4d7bd77e2)
+-  [TryHackMe — Incident Response Fundamentals — Writeup](https://medium.com/@embossdotar/tryhackme-incident-response-fundamentals-writeup-bbf8578c8289)
+-  [TryHackMe — Digital Forensics Fundamentals — Writeup](https://medium.com/@embossdotar/tryhackme-digital-forensics-fundamentals-writeup-fbfef06a85a4)
+-  [TryHackMe — Firewall Fundamentals — Writeup](https://medium.com/@embossdotar/tryhackme-firewall-fundamentals-writeup-9c0ebc988398)
+-  [TryHackMe — IDS Fundamentals — Writeup](https://medium.com/@embossdotar/tryhackme-ids-fundamentals-writeup-f3f44007f0b3)
+-  [TryHackMe — Vulnerability Scanner Overview — Writeup](https://medium.com/@embossdotar/tryhackme-vulnerability-scanner-overview-writeup-be0943d77744)
 _____________________
 # VDP
 - [Writeup Bugcrowd — Private program — QR codes](https://medium.com/@embossdotar/writeup-bugcrowd-private-program-qr-codes-fa338161175a)
