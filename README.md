@@ -87,6 +87,11 @@ _____________________
 -  [TryHackMe — Firewall Fundamentals — Writeup](https://medium.com/@embossdotar/tryhackme-firewall-fundamentals-writeup-9c0ebc988398)
 -  [TryHackMe — IDS Fundamentals — Writeup](https://medium.com/@embossdotar/tryhackme-ids-fundamentals-writeup-f3f44007f0b3)
 -  [TryHackMe — Vulnerability Scanner Overview — Writeup](https://medium.com/@embossdotar/tryhackme-vulnerability-scanner-overview-writeup-be0943d77744)
+-  [TryHackMe — Public Key Cryptography Basics — Writeup](https://medium.com/@embossdotar/tryhackme-public-key-cryptography-basics-writeup-2cb020b60553)
+-  [TryHackMe — Hashing Basics — Writeup](https://medium.com/@embossdotar/tryhackme-hashing-basics-writeup-e366b479d77a)
+-  [TryHackMe — CAPA: The Basics — Writeup](https://medium.com/@embossdotar/tryhackme-capa-the-basics-writeup-42f5b88aadc4)
+-  [TryHackMe — SQLMap: The Basics — Writeup](https://medium.com/@embossdotar/tryhackme-sqlmap-the-basics-writeup-cdda034b5acb)
+-  [TryHackMe — Gobuster: The Basics — Writeup](https://medium.com/@embossdotar/tryhackme-gobuster-the-basics-writeup-8aa3fbcd8db1)
 _____________________
 # VDP
 - [Writeup Bugcrowd — Private program — QR codes](https://medium.com/@embossdotar/writeup-bugcrowd-private-program-qr-codes-fa338161175a)
