@@ -92,6 +92,9 @@ _____________________
 -  [TryHackMe — CAPA: The Basics — Writeup](https://medium.com/@embossdotar/tryhackme-capa-the-basics-writeup-42f5b88aadc4)
 -  [TryHackMe — SQLMap: The Basics — Writeup](https://medium.com/@embossdotar/tryhackme-sqlmap-the-basics-writeup-cdda034b5acb)
 -  [TryHackMe — Gobuster: The Basics — Writeup](https://medium.com/@embossdotar/tryhackme-gobuster-the-basics-writeup-8aa3fbcd8db1)
+-  [TryHackMe — Logs Fundamentals — Writeup](https://medium.com/@embossdotar/tryhackme-logs-fundamentals-writeup-5bbb03bf7b2e)
+-  [TryHackMe — Linux Shells — Writeup](https://medium.com/@embossdotar/tryhackme-linux-shells-writeup-f2e94e7532bc)
+-  [TryHackMe — Shells Overview — Writeup](https://medium.com/@embossdotar/tryhackme-shells-overview-writeup-e0a2c3a11620)
 _____________________
 # VDP
 - [Writeup Bugcrowd — Private program — QR codes](https://medium.com/@embossdotar/writeup-bugcrowd-private-program-qr-codes-fa338161175a)
