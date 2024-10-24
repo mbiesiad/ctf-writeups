@@ -96,6 +96,7 @@ _____________________
 -  [TryHackMe — Linux Shells — Writeup](https://medium.com/@embossdotar/tryhackme-linux-shells-writeup-f2e94e7532bc)
 -  [TryHackMe — Shells Overview — Writeup](https://medium.com/@embossdotar/tryhackme-shells-overview-writeup-e0a2c3a11620)
 -  [TryHackMe — Cryptography Basics — Writeup](https://medium.com/@embossdotar/tryhackme-cryptography-basics-writeup-f604457e3cac)
+-  [TryHackMe — SOC Fundamentals — Writeup](https://medium.com/@embossdotar/tryhackme-soc-fundamentals-writeup-7aa43a55f7d8)
 _____________________
 # VDP
 - [Writeup Bugcrowd — Private program — QR codes](https://medium.com/@embossdotar/writeup-bugcrowd-private-program-qr-codes-fa338161175a)
