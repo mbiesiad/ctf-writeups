@@ -31,6 +31,7 @@ _____________________
 -  [CTF Writeup — TFC CTF 2024 — CCCCC](https://medium.com/@embossdotar/ctf-writeup-tfc-ctf-2024-ccccc-a0cd075518de)
 -  [CTF Writeup — IRON CTF 2024 — Math Gone Wrong](https://medium.com/@embossdotar/ctf-writeup-iron-ctf-2024-math-gone-wrong-ccc0b463e38f)
 -  [CTF Writeup — IRON CTF 2024 — Introspection](https://medium.com/@embossdotar/ctf-writeup-iron-ctf-2024-introspection-e136feb0570a)
+-  [CTF Writeup — Crate-CTF 2024 — XML-kontroll](https://medium.com/@embossdotar/ctf-writeup-crate-ctf-2024-xml-kontroll-c57459443c4c)
 _____________________
 # THM
 -  [TryHackMe — Advent of Cyber 2023 — Hydra — Day 3 Walkthrough](https://medium.com/@embossdotar/tryhackme-advent-of-cyber-2023-hydra-day-3-walkthrough-6f4c2b488a17)
