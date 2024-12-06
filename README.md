@@ -103,5 +103,6 @@ _____________________
 - [Writeup Bugcrowd — Private program — QR codes](https://medium.com/@embossdotar/writeup-bugcrowd-private-program-qr-codes-fa338161175a)
 - [Vuln — Substack Writeup — Open URL Redirection](https://medium.com/@embossdotar/vuln-substack-writeup-open-url-redirection-d4439ddd904e)
 - [Social media account hijacking — VDP](https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44)
+- [How I Found 3x XSS in 6 Seconds! Without Automated Tools](https://medium.com/@embossdotar/how-i-found-3x-xss-in-6-seconds-without-automated-tools-b0c852dea66f)
 
 I hope you enjoy! 🎉
