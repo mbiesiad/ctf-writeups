@@ -6,6 +6,7 @@
 -  [HackTheBox CTF — Crypto: Makeshift](https://medium.com/@embossdotar/hackthebox-ctf-crypto-makeshift-64f05b88f8d9)
 -  [Cyber Apocalypse 2024: Hacker Royale — Crypto: Dynastic](https://medium.com/@embossdotar/cyber-apocalypse-2024-hacker-royale-crypto-dynastic-7395ab5cd3ea)
 -  [CTF Writeup — Cyber Apocalypse 2024: Hacker Royale — Reversing: LootStash](https://medium.com/@embossdotar/ctf-writeup-cyber-apocalypse-2024-hacker-royale-reversing-lootstash-60f485a11142)
+-  [HackTheBox — Introduction to Windows Command Line — Finding Files and Directories](https://medium.com/@embossdotar/hackthebox-introduction-to-windows-command-line-finding-files-and-directories-eda4c02bbd1e)
 _____________________
 # CTFs
 -  [CTF Writeup — Hackme CTF](https://medium.com/@embossdotar/ctf-writeup-hackme-ctf-720341f061b4)
