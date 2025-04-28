@@ -105,5 +105,7 @@ _____________________
 - [Vuln — Substack Writeup — Open URL Redirection](https://medium.com/@embossdotar/vuln-substack-writeup-open-url-redirection-d4439ddd904e)
 - [Social media account hijacking — VDP](https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44)
 - [How I Found 3x XSS in 6 Seconds! Without Automated Tools](https://medium.com/@embossdotar/how-i-found-3x-xss-in-6-seconds-without-automated-tools-b0c852dea66f)
+- [How Many Ethical Hackers Are Out There? A Global Look Through Google Bug Hunters Data](https://osintteam.blog/how-many-ethical-hackers-are-out-there-a-global-look-through-google-bug-hunters-data-a09fb8e2329e)
+- [Mapping the World’s Ethical Hackers: Insights from HackerOne Platform](https://osintteam.blog/mapping-the-worlds-ethical-hackers-insights-from-hackerone-platform-ca45592861e6)
 
 I hope you enjoy! 🎉
