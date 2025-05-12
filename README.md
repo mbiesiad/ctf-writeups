@@ -108,5 +108,7 @@ _____________________
 - [How Many Ethical Hackers Are Out There? A Global Look Through Google Bug Hunters Data](https://osintteam.blog/how-many-ethical-hackers-are-out-there-a-global-look-through-google-bug-hunters-data-a09fb8e2329e)
 - [Mapping the World’s Ethical Hackers: Insights from HackerOne Platform](https://osintteam.blog/mapping-the-worlds-ethical-hackers-insights-from-hackerone-platform-ca45592861e6)
 - [An Attempt to Hijack My Digital Identity: A Cyber Attack Following Two Medium.com Articles](https://systemweakness.com/an-attempt-to-hijack-my-digital-identity-a-cyber-attack-following-two-medium-com-articles-63692536546c)
+- [Bogon Address — Explained](https://medium.com/meetcyber/bogon-address-explained-cf73e1dacce5)
+- [Why Is My Network 192.168.x.x… but My Virtual Machine Shows 10.x.x.x?](https://medium.com/meetcyber/why-is-my-network-192-168-x-x-but-my-virtual-machine-shows-10-x-x-x-cb232e437fca)
 
 I hope you enjoy! 🎉
