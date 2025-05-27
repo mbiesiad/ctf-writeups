@@ -1,5 +1,7 @@
 # ctf-writeups
-**Selected** CTF Writeups 🚩
+Personal Collection of CTF Writeups and Security Research 🚩
+
+A personal collection of cybersecurity writeups — from CTF challenges and HTB/THM walkthroughs to notes on real-world vulnerabilities reported through VDPs (and similar).
 
 # HTB
 -  [HackTheBox CTF — Crypto: Iced TEA](https://medium.com/@embossdotar/hackthebox-ctf-crypto-iced-tea-9a6a6c73094d)
