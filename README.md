@@ -35,6 +35,10 @@ _____________________
 -  [CTF Writeup — IRON CTF 2024 — Math Gone Wrong](https://medium.com/@embossdotar/ctf-writeup-iron-ctf-2024-math-gone-wrong-ccc0b463e38f)
 -  [CTF Writeup — IRON CTF 2024 — Introspection](https://medium.com/@embossdotar/ctf-writeup-iron-ctf-2024-introspection-e136feb0570a)
 -  [CTF Writeup — Crate-CTF 2024 — XML-kontroll](https://medium.com/@embossdotar/ctf-writeup-crate-ctf-2024-xml-kontroll-c57459443c4c)
+-  [CTF Writeup — TJCTF 2025 — mouse-trail](https://medium.com/@embossdotar/ctf-writeup-tjctf-2025-mouse-trail-eb37a18a372e)
+-  [CTF Writeup — TJCTF 2025 — guess-my-number](https://medium.com/@embossdotar/ctf-writeup-tjctf-2025-guess-my-number-754847f18a48)
+-  [CTF Writeup — TJCTF 2025 — hidden-message](https://medium.com/@embossdotar/ctf-writeup-tjctf-2025-hidden-message-124ce00a4001)
+-  [CTF Writeup — TJCTF 2025 — loopy](https://medium.com/@embossdotar/ctf-writeup-tjctf-2025-loopy-5fdade94f7fa)
 _____________________
 # THM
 -  [TryHackMe — Advent of Cyber 2023 — Hydra — Day 3 Walkthrough](https://medium.com/@embossdotar/tryhackme-advent-of-cyber-2023-hydra-day-3-walkthrough-6f4c2b488a17)
