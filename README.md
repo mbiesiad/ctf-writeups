@@ -117,5 +117,6 @@ _____________________
 - [Bogon Address — Explained](https://medium.com/meetcyber/bogon-address-explained-cf73e1dacce5)
 - [Why Is My Network 192.168.x.x… but My Virtual Machine Shows 10.x.x.x?](https://medium.com/meetcyber/why-is-my-network-192-168-x-x-but-my-virtual-machine-shows-10-x-x-x-cb232e437fca)
 - [One IP, Many People: Why You Can’t Tell Who’s Really Visiting Your Website](https://medium.com/meetcyber/one-ip-many-people-why-you-cant-tell-who-s-really-visiting-your-website-c40ad4abf9af)
+- [Why You Have to Wait for Your CVE: Behind the Scenes of MITRE’s Process](https://medium.com/@embossdotar/why-you-have-to-wait-for-your-cve-behind-the-scenes-of-mitres-process-394369fbd3b5)
 
 I hope you enjoy! 🎉
