@@ -119,6 +119,6 @@ _____________________
 - [One IP, Many People: Why You Can’t Tell Who’s Really Visiting Your Website](https://medium.com/meetcyber/one-ip-many-people-why-you-cant-tell-who-s-really-visiting-your-website-c40ad4abf9af)
 - [Why You Have to Wait for Your CVE: Behind the Scenes of MITRE’s Process](https://medium.com/@embossdotar/why-you-have-to-wait-for-your-cve-behind-the-scenes-of-mitres-process-394369fbd3b5)
 - [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://medium.com/@embossdotar/reflected-xss-with-base64-breaching-obscurity-in-seconds-38e3ca07b085)
-- [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://infosecwriteups.com/reflected-xss-with-base64-breaching-obscurity-in-seconds-e1f9e50a4709)
+- [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://infosecwriteups.com/reflected-xss-with-base64-breaching-obscurity-in-seconds-e1f9e50a4709) (InfoSec Write-ups Publication)
 
 I hope you enjoy! 🎉
