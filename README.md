@@ -1,7 +1,13 @@
 # ctf-writeups
 Personal Collection of CTF Writeups and Security Research 🚩
 
-A personal collection of cybersecurity writeups — from CTF challenges and HTB/THM walkthroughs to notes on real-world vulnerabilities reported through VDPs (and similar).
+A personal collection of cybersecurity writeups - from CTF challenges and HTB/THM walkthroughs to notes on real-world vulnerabilities reported through VDPs (and similar).
+
+# TOC - Table of contents
+1. [HTB](https://github.com/mbiesiad/ctf-writeups?tab=readme-ov-file#htb)
+2. [CTFs](https://github.com/mbiesiad/ctf-writeups?tab=readme-ov-file#ctfs)
+3. [THM](https://github.com/mbiesiad/ctf-writeups?tab=readme-ov-file#thm)
+4. [VDP](https://github.com/mbiesiad/ctf-writeups?tab=readme-ov-file#vdp)
 
 # HTB
 -  [HackTheBox CTF — Crypto: Iced TEA](https://medium.com/@embossdotar/hackthebox-ctf-crypto-iced-tea-9a6a6c73094d)
