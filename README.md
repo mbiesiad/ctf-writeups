@@ -8,6 +8,7 @@ A personal collection of cybersecurity writeups - from CTF challenges and HTB/TH
 2. [CTFs](https://github.com/mbiesiad/ctf-writeups?tab=readme-ov-file#ctfs)
 3. [THM](https://github.com/mbiesiad/ctf-writeups?tab=readme-ov-file#thm)
 4. [VDP](https://github.com/mbiesiad/ctf-writeups?tab=readme-ov-file#vdp)
+5. [CTF Challenges I Created & Selected Tools](https://github.com/mbiesiad/ctf-writeups?tab=readme-ov-file#ctf-challenges-i-created--selected-tools)
 
 # HTB
 -  [HackTheBox CTF — Crypto: Iced TEA](https://medium.com/@embossdotar/hackthebox-ctf-crypto-iced-tea-9a6a6c73094d)
@@ -126,5 +127,10 @@ _____________________
 - [Why You Have to Wait for Your CVE: Behind the Scenes of MITRE’s Process](https://medium.com/@embossdotar/why-you-have-to-wait-for-your-cve-behind-the-scenes-of-mitres-process-394369fbd3b5)
 - [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://medium.com/@embossdotar/reflected-xss-with-base64-breaching-obscurity-in-seconds-38e3ca07b085)
 - [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://infosecwriteups.com/reflected-xss-with-base64-breaching-obscurity-in-seconds-e1f9e50a4709) (InfoSec Write-ups Publication)
+
+_____________________
+# CTF Challenges I Created & Selected Tools
+- Symmetry-based Visual Encoding of Alphanumeric Characters: [Challenges](https://github.com/mbiesiad/symmetry-encoder-decoder/tree/main/challenges)
+- Symmetry-based Visual Encoding of Alphanumeric Characters: [Tools](https://github.com/mbiesiad/symmetry-encoder-decoder)
 
 I hope you enjoy! 🎉
