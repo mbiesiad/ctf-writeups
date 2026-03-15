@@ -132,5 +132,6 @@ _____________________
 # CTF Challenges I Created & Selected Tools
 - Symmetry-based Visual Encoding of Alphanumeric Characters: [Challenges](https://github.com/mbiesiad/symmetry-encoder-decoder/tree/main/challenges)
 - Symmetry-based Visual Encoding of Alphanumeric Characters: [Tools](https://github.com/mbiesiad/symmetry-encoder-decoder)
+- Security.txt (RFC 9116) Checker - Browser Extension: [Tool](https://github.com/mbiesiad/security-txt-checker)
 
 I hope you enjoy! 🎉
